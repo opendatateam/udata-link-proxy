@@ -1,3 +1,5 @@
+**Note: This project is not maintained anymore.**
+
 # udata-link-proxy
 
 udata gateway to link-proxy (https://github.com/geodatagouv/link-proxy)
